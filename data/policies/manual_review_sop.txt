@@ -1,0 +1,14 @@
+
+MANUAL REVIEW STANDARD OPERATING PROCEDURE
+
+1. Applications with medium risk scores between 40 and 60 require human review.
+
+2. Missing applicant information should trigger manual verification.
+
+3. Applications flagged for possible fraud must be escalated.
+
+4. Borderline credit scores between 620 and 680 require additional scrutiny.
+
+5. Loan officers may override automated recommendations with justification.
+
+6. Human reviewers must document final approval reasons.

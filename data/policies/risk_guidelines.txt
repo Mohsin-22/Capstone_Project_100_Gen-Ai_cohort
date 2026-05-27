@@ -1,0 +1,16 @@
+
+RISK ASSESSMENT GUIDELINES
+
+1. Credit scores below 600 indicate high financial risk.
+
+2. Debt-to-income ratio above 55% should lead to rejection.
+
+3. Self-employed applicants with less than 2 years of employment history require manual review.
+
+4. Applicants with multiple existing loans are considered moderate risk.
+
+5. Large loan requests combined with low income increase fraud probability.
+
+6. Inconsistent repayment history increases default likelihood.
+
+7. High monthly expenses relative to income indicate repayment instability.
