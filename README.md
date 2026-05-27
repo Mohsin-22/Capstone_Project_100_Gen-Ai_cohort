@@ -15,7 +15,7 @@ Interactive Web-Based UI,
 
 to simulate a real-world banking loan approval workflow.
 
-**The project was developed as part of the UST Enterprise Capstone Program.**
+**The project was developed as part of GEN AI COHORT 2 Program.**
 
 ----
 **Problem Statement**
